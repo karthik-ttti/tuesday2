@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ertyu
+=======
+fghjk
+>>>>>>> 5a88e13416d30ba6d1578bf9beebfab66485d823
